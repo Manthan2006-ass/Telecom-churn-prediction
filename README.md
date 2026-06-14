@@ -31,7 +31,7 @@ Place these files in the project root or a local data folder before running the 
 ```bash
 pip install -r requirements.txt
 ```
-
+> Note Before Running: This repository does not include pre-trained model binary files (.pkl) because they are too large for standard GitHub tracking. You must run the training scripts locally first to generate the local outputs/ directory and its required files before launching the Streamlit interface.
 ## Usage
 
 ### Train models
