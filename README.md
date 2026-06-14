@@ -11,7 +11,7 @@ This project is a Telco churn prediction pipeline built with Python and Streamli
 - `trainpsuedo.py` - Trains a LightGBM model using pseudo-labeled test examples.
 - `utils.py` - Common utilities for loading data, feature engineering, encoding, model persistence, and submission export.
 - `outputs/` - Generated model artifacts and CSV outputs.
-- sample_churn_template.csv` - example batch input format.
+- `sample_churn_template.csv` - example batch input format.
 
 ## Data requirements
 
