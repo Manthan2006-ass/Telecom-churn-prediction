@@ -1,5 +1,5 @@
 # Telecom Customer Churn Prediction Pipeline
-
+🚀 **Live Deployment Link:** https://telecom-churn-prediction-o3awdcmqdtm4vw7naapp3kk.streamlit.app/
 This project is a Telco churn prediction pipeline built with Python and Streamlit. It includes data preprocessing, LightGBM and CatBoost model training, pseudo-labeling, ensembling, and a Streamlit inference app.
 
 ## Repository Structure
